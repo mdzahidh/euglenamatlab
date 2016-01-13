@@ -12,7 +12,6 @@
 %
 %  The number written next to each Euglena is their "trackID". We will see
 %  shortly how to use these trackIDs.
-%  Test
 
 clc;clear;
 exp = EuglenaTracks('./data1/',10);
